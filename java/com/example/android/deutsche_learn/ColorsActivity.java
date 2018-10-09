@@ -28,6 +28,9 @@ public class ColorsActivity extends AppCompatActivity {
         words.add(new Word("orange", "Orange"));
         words.add(new Word("grey", "Grau"));
         words.add(new Word("purple/violet", "Lila/Violett"));
+        words.add(new Word("bordeaux", "bordeaux"));
+        words.add(new Word("magenta", "magenta"));
+
 
 
         //Add List View
